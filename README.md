@@ -34,8 +34,7 @@
 <!-- "About me" bullet points -->
 
 - Lead programmer on my school's robotics team: drone and ground-robot control code in Python, ROS 2, and Arduino
-- I build systems and data projects: a Roblox analytics platform with 13k+ users, a Luau bytecode decompiler in Rust, and an offline education server deployed in rural Guatemala
-- Want to connect? Reach me at [muffinhookroblox@gmail.com](mailto:muffinhookroblox@gmail.com)
+- Want to connect? Reach me at [mullenssean2@gmail.com](mailto:mullenssean2@gmail.com)
 
 ---
 
